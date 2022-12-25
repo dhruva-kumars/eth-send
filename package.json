@@ -1,5 +1,5 @@
 {
-  "name": "eth-send",
+  "name": "Dhruva Kumar S",
   "version": "0.0.12",
   "description": "Simple way to send ether.",
   "main": "index.js",
@@ -13,20 +13,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/miguelmota/eth-send"
+    "url": "https://github.com/dhruva-kumars/eth-send"
   },
   "bugs": {
-    "url": "https://github.com/miguelmota/eth-send/issues"
+    "url": "https://github.com/dhruva-kumars/eth-send"
   },
-  "homepage": "https://github.com/miguelmota/eth-send",
+  "homepage": "https://github.com/dhruva-kumars/eth-send",
   "author": {
-    "name": "Miguel Mota",
-    "email": "hello@miguelmota.com",
+    "name": "Dhruva Kumar S",
+    "email": "shruvakumars.cs21@rvce.edu.in",
     "url": "https://miguelmota.com/"
   },
   "license": {
     "type": "MIT",
-    "url": "https://github.com/miguelmota/eth-send/blob/master/LICENSE"
+    "url": "https://github.com/dhruva-kumars/eth-send"
   },
   "dependencies": {
     "chalk": "2.4.2",
