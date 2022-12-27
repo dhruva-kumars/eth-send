@@ -122,7 +122,3 @@ $ eth-send --help
 ```bash
 npm test
 ```
-
-## License
-
-[MIT](LICENSE)
